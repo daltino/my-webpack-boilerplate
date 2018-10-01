@@ -1,6 +1,6 @@
-# Webpack Frontend Starterkit
+# Customized Webpack Boilerplate
 
-A lightweight foundation for your next webpack based frontend project.
+A custom webpack boilerplate that you can use to build interactive front-end applications.
 
 
 ### Installation
